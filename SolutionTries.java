@@ -6,7 +6,7 @@ import java.util.Scanner;
 * which uses the data structure Try, that keeps
 * track of a words and their preffix 
 */
-public class SolutionTry {
+public class SolutionTries {
 
     private static Node root;
 
